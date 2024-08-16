@@ -24,7 +24,7 @@ function changeMode(){
  } 
  else{
     mode.style.background = "#444442";
-    mode.style.color = 'white';
+    mode.style.color = 'wheat';
     temp = 1;
     btnText.innerText = "Day";
  }
